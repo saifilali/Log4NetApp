@@ -1,4 +1,5 @@
-﻿using System;
+﻿using log4net.Core;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Remoting.Metadata.W3cXsd2001;
@@ -14,8 +15,6 @@ namespace Log4NetApp
         private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType); //LogHelper.GetLogger(); 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-
             log.Debug("Developer: MonthlyPayrollJob was run.");
             log.Info("Maintenance: WeeklyTimeManagementJob is running slow.");
             log.Warn("Maintenance: DailyJournalyEntryJob is cluttered.");

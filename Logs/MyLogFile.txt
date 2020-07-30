@@ -1,42 +1,132 @@
-TIME :: 11:37:07,108 
+TIME :: 11:46:49,893 
 CLASS :: [Log4NetApp.Program] 
 LEVEL :: [WARN] 
 MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
 EXCEPTION ::  
 
-TIME :: 11:37:07,127 
+TIME :: 11:46:49,901 
 CLASS :: [Log4NetApp.Program] 
 LEVEL :: [ERROR] 
 MESSAGE :: Developer: Trying to divide by zero. 
 EXCEPTION :: System.DivideByZeroException: Attempted to divide by zero.
-   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 26
+   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 24
  
 
-TIME :: 11:42:53,289 
+TIME :: 11:48:52,296 
 CLASS :: [Log4NetApp.Program] 
 LEVEL :: [WARN] 
 MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
 EXCEPTION ::  
 
-TIME :: 11:42:53,314 
+TIME :: 11:48:52,305 
 CLASS :: [Log4NetApp.Program] 
 LEVEL :: [ERROR] 
 MESSAGE :: Developer: Trying to divide by zero. 
 EXCEPTION :: System.DivideByZeroException: Attempted to divide by zero.
-   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 26
+   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 25
  
 
-TIME :: 11:43:11,793 
+TIME :: 11:50:00,442 
 CLASS :: [Log4NetApp.Program] 
 LEVEL :: [WARN] 
 MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
 EXCEPTION ::  
 
-TIME :: 11:43:11,811 
+TIME :: 11:50:00,455 
 CLASS :: [Log4NetApp.Program] 
 LEVEL :: [ERROR] 
 MESSAGE :: Developer: Trying to divide by zero. 
 EXCEPTION :: System.DivideByZeroException: Attempted to divide by zero.
-   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 26
+   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 25
  
+
+TIME :: 11:54:05,983 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [WARN] 
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
+EXCEPTION ::  
+
+TIME :: 11:54:05,992 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [ERROR] 
+MESSAGE :: Developer: Trying to divide by zero. 
+EXCEPTION :: System.DivideByZeroException: Attempted to divide by zero.
+   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 25
+ 
+
+TIME :: 11:56:11,001 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [WARN] 
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
+EXCEPTION ::  
+
+TIME :: 11:56:11,011 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [ERROR] 
+MESSAGE :: Developer: Trying to divide by zero. 
+EXCEPTION :: System.DivideByZeroException: Attempted to divide by zero.
+   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 25
+ 
+
+TIME :: 11:56:55,555 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [WARN] 
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
+EXCEPTION ::  
+
+TIME :: 11:56:55,565 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [ERROR] 
+MESSAGE :: Developer: Trying to divide by zero. 
+EXCEPTION :: System.DivideByZeroException: Attempted to divide by zero.
+   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 25
+ 
+
+TIME :: 11:58:24,412 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [WARN] 
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
+EXCEPTION ::  
+
+TIME :: 11:58:24,420 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [ERROR] 
+MESSAGE :: Developer: Trying to divide by zero. 
+EXCEPTION :: System.DivideByZeroException: Attempted to divide by zero.
+   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 25
+ 
+
+TIME :: 11:58:58,255 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [WARN] 
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
+EXCEPTION ::  
+
+TIME :: 11:58:58,263 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [ERROR] 
+MESSAGE :: Developer: Trying to divide by zero. 
+EXCEPTION :: System.DivideByZeroException: Attempted to divide by zero.
+   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 25
+ 
+
+TIME :: 12:08:37,818            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 20             
+LEVEL :: [WARN]             
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:08:37,829            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 29             
+LEVEL :: [ERROR]             
+MESSAGE :: Developer: Trying to divide by zero.             
+EXCEPTION :: System.DivideByZeroException: Attempted to divide by zero.
+   at Log4NetApp.Program.Main(String[] args) in C:\SaifilNinja\Source_Code\Web_Phx\Log4NetApp\Log4NetApp\Program.cs:line 25
+             
+MACHINENAME :: STR\Saifil.Ali             
 
