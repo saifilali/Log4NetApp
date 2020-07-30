@@ -25,3 +25,165 @@ MESSAGE :: Maintenance: SalesFrontCounterJob is stopped.
 EXCEPTION ::              
 MACHINENAME :: STR\Saifil.Ali             
 
+TIME :: 12:53:29,090            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 19             
+LEVEL :: [INFO]             
+MESSAGE :: Maintenance: WeeklyTimeManagementJob is running slow.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:53:29,092            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 20             
+LEVEL :: [WARN]             
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:53:29,110            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 32             
+LEVEL :: [FATAL]             
+MESSAGE :: Maintenance: SalesFrontCounterJob is stopped.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:54:42,604            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 19             
+LEVEL :: [INFO]             
+MESSAGE :: Maintenance: WeeklyTimeManagementJob is running slow.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:54:43,311            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 20             
+LEVEL :: [WARN]             
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:54:44,758            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 32             
+LEVEL :: [FATAL]             
+MESSAGE :: Maintenance: SalesFrontCounterJob is stopped.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:56:12,619            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 19             
+LEVEL :: [INFO]             
+MESSAGE :: Maintenance: WeeklyTimeManagementJob is running slow.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:56:13,323            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 20             
+LEVEL :: [WARN]             
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:56:14,726            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 32             
+LEVEL :: [FATAL]             
+MESSAGE :: Maintenance: SalesFrontCounterJob is stopped.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:56:53,937            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 19             
+LEVEL :: [INFO]             
+MESSAGE :: Maintenance: WeeklyTimeManagementJob is running slow.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:56:53,939            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 20             
+LEVEL :: [WARN]             
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:56:53,975            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 32             
+LEVEL :: [FATAL]             
+MESSAGE :: Maintenance: SalesFrontCounterJob is stopped.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:57:05,767            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 19             
+LEVEL :: [INFO]             
+MESSAGE :: Maintenance: WeeklyTimeManagementJob is running slow.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:57:05,769            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 20             
+LEVEL :: [WARN]             
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:57:05,787            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 32             
+LEVEL :: [FATAL]             
+MESSAGE :: Maintenance: SalesFrontCounterJob is stopped.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:57:16,500            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 19             
+LEVEL :: [INFO]             
+MESSAGE :: Maintenance: WeeklyTimeManagementJob is running slow.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:57:16,502            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 20             
+LEVEL :: [WARN]             
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
+TIME :: 12:57:17,261            
+CLASS :: Log4NetApp.Program             
+METHOD :: Main             
+LINE :: 32             
+LEVEL :: [FATAL]             
+MESSAGE :: Maintenance: SalesFrontCounterJob is stopped.             
+EXCEPTION ::              
+MACHINENAME :: STR\Saifil.Ali             
+
