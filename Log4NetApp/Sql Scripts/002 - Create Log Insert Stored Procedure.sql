@@ -11,15 +11,18 @@ CREATE PROCEDURE dbo.procLogs_Insert
 	@log_date datetime2, 
   @log_thread varchar(50), 
   @log_level varchar(50), 
-  @log_source varchar(300), 
+  @log_class varchar(300), 
+  @log_method varchar(300), 
+  @log_line varchar(300), 
+  @log_machinename varchar(300), 
   @log_message varchar(4000), 
   @exception varchar(4000)
 AS
 BEGIN
 	SET NOCOUNT ON;
 
-  insert into dbo.Logs (logDate, logThread, logLevel, logSource, logMessage, exception)
-  values (@log_date, @log_thread, @log_level, @log_source, @log_message, @exception)
+  insert into dbo.Logs (LogDate, LogThread, LogLevel, LogClass, LogMethod, LogLine, LogMessage, Exception, LogMachineName)
+  values (@log_date, @log_thread, @log_level, @log_class, @log_method, @log_line, @log_message, @exception, @log_machinename)
 
 END
 GO
