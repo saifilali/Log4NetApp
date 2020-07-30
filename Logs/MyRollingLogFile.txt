@@ -1,0 +1,54 @@
+TIME :: 11:37:07,106 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [INFO] 
+MESSAGE :: Maintenance: WeeklyTimeManagementJob is running slow. 
+EXCEPTION ::  
+
+TIME :: 11:37:07,108 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [WARN] 
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
+EXCEPTION ::  
+
+TIME :: 11:37:07,136 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [FATAL] 
+MESSAGE :: Maintenance: SalesFrontCounterJob is stopped. 
+EXCEPTION ::  
+
+TIME :: 11:42:53,286 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [INFO] 
+MESSAGE :: Maintenance: WeeklyTimeManagementJob is running slow. 
+EXCEPTION ::  
+
+TIME :: 11:42:53,289 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [WARN] 
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
+EXCEPTION ::  
+
+TIME :: 11:42:53,322 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [FATAL] 
+MESSAGE :: Maintenance: SalesFrontCounterJob is stopped. 
+EXCEPTION ::  
+
+TIME :: 11:43:11,790 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [INFO] 
+MESSAGE :: Maintenance: WeeklyTimeManagementJob is running slow. 
+EXCEPTION ::  
+
+TIME :: 11:43:11,793 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [WARN] 
+MESSAGE :: Maintenance: DailyJournalyEntryJob is cluttered. 
+EXCEPTION ::  
+
+TIME :: 11:43:11,848 
+CLASS :: [Log4NetApp.Program] 
+LEVEL :: [FATAL] 
+MESSAGE :: Maintenance: SalesFrontCounterJob is stopped. 
+EXCEPTION ::  
+
